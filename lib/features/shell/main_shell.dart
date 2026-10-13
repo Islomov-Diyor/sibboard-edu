@@ -50,38 +50,68 @@ class MainShell extends ConsumerWidget {
         title: FittedBox(
           fit: BoxFit.scaleDown,
           alignment: Alignment.centerLeft,
-          child: Row(
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              Container(
-                padding: const EdgeInsets.symmetric(horizontal: 9, vertical: 4),
-                decoration: BoxDecoration(
-                  color: AppColors.woodDark,
-                  borderRadius: BorderRadius.circular(8),
+          child: InkWell(
+            borderRadius: BorderRadius.circular(8),
+            onTap: () => context.go('/home'),
+            child: Row(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                Container(
+                  width: 32,
+                  height: 32,
+                  margin: const EdgeInsets.only(right: 8),
+                  decoration: BoxDecoration(
+                    borderRadius: BorderRadius.circular(8),
+                    border: Border.all(color: AppColors.woodDark, width: 1.5),
+                    boxShadow: const [
+                      BoxShadow(
+                        color: AppColors.shadow,
+                        blurRadius: 4,
+                        offset: Offset(0, 1),
+                      ),
+                    ],
+                  ),
+                  child: ClipRRect(
+                    borderRadius: BorderRadius.circular(6.5),
+                    child: Image.asset(
+                      'assets/images/11_child_on_board.webp',
+                      fit: BoxFit.cover,
+                      errorBuilder: (context, error, stackTrace) =>
+                          const Icon(Icons.school_rounded,
+                              size: 18, color: AppColors.woodDark),
+                    ),
+                  ),
                 ),
-                child: const Text(
-                  'SIBBOARD',
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 9, vertical: 4),
+                  decoration: BoxDecoration(
+                    color: AppColors.woodDark,
+                    borderRadius: BorderRadius.circular(8),
+                  ),
+                  child: const Text(
+                    'SIBBOARD',
+                    style: TextStyle(
+                      fontFamily: AppTypography.fontFamily,
+                      fontWeight: FontWeight.w900,
+                      fontSize: 13,
+                      color: Colors.white,
+                      letterSpacing: 1.1,
+                    ),
+                  ),
+                ),
+                const SizedBox(width: 5),
+                const Text(
+                  'EDU',
                   style: TextStyle(
                     fontFamily: AppTypography.fontFamily,
                     fontWeight: FontWeight.w900,
-                    fontSize: 13,
-                    color: Colors.white,
-                    letterSpacing: 1.1,
+                    fontSize: 14,
+                    color: AppColors.accent,
+                    letterSpacing: 1.2,
                   ),
                 ),
-              ),
-              const SizedBox(width: 5),
-              const Text(
-                'EDU',
-                style: TextStyle(
-                  fontFamily: AppTypography.fontFamily,
-                  fontWeight: FontWeight.w900,
-                  fontSize: 14,
-                  color: AppColors.accent,
-                  letterSpacing: 1.2,
-                ),
-              ),
-            ],
+              ],
+            ),
           ),
         ),
         actions: [
