@@ -1,0 +1,94 @@
+{
+  "id": "author",
+  "title": "Muallif haqida ma'lumot",
+  "subtitle": "«SIBBOARD EDU» ilmiy-metodik qo'llanmasi va mobil ilovasi muallifi",
+  "photo": "assets/images/author_farangiz.jpg",
+  "full_name": "No'monjonova Farangiz Komiljon qizi",
+  "short_name": "F. K. No'monjonova",
+  "position": "«Maktabgacha ta'lim» kafedrasi assistent-o'qituvchisi",
+  "workplace": "Iqtisodiyot va pedagogika universiteti",
+  "workplace_location": "Qarshi shahri, O'zbekiston Respublikasi",
+  "specialty_code": "13.00.01",
+  "specialty_name": "Pedagogika nazariyasi. Pedagogik ta'limotlar tarixi",
+  "orcid": "0009-0004-1667-2538",
+  "orcid_url": "https://orcid.org/0009-0004-1667-2538",
+  "languages": [
+    {"name": "O'zbek tili", "level": "Ona tili"},
+    {"name": "Rus tili", "level": "TRKI-III / C1"},
+    {"name": "Ingliz tili", "level": "B1"}
+  ],
+  "address": "Qashqadaryo viloyati, Qarshi shahri, Gungon MFY, Jayxun ko'chasi, 11A-uy",
+  "education": [
+    {
+      "level": "Oliy ta'lim (magistratura)",
+      "institution": "Jizzax davlat pedagogika universiteti",
+      "period": "2021–2023 yy.",
+      "degree": "Magistr",
+      "degree_date": "22.06.2023 y.",
+      "code": "70110201",
+      "field": "Ta'lim va tarbiya nazariyasi va metodikasi (maktabgacha ta'lim)",
+      "qualification": "Maktabgacha ta'lim sohasida mutaxassis",
+      "diploma_number": "M00043252"
+    },
+    {
+      "level": "Oliy ta'lim (bakalavriat)",
+      "institution": "Jizzax davlat pedagogika universiteti",
+      "period": "2019–2021 yy.",
+      "degree": "Bakalavr",
+      "degree_date": "22.06.2021 y.",
+      "code": "5111800",
+      "field": "Maktabgacha ta'lim",
+      "qualification": "Maktabgacha ta'lim tashkiloti tarbiyachisi",
+      "diploma_number": "B00003164"
+    }
+  ],
+  "career": [
+    {
+      "period": "2025–2026 yy.",
+      "position": "«Maktabgacha ta'lim» kafedrasi assistent-o'qituvchisi",
+      "organization": "Iqtisodiyot va pedagogika universiteti (Qarshi sh.)"
+    },
+    {
+      "period": "2023–2024 yy.",
+      "position": "Masofaviy ta'lim kafedrasi stajyor-o'qituvchisi, «Maktabgacha va boshlang'ich ta'lim» sirtqi bo'limi",
+      "organization": "Jizzax davlat pedagogika universiteti"
+    },
+    {
+      "period": "2021–2023 yy.",
+      "position": "Talaba (magistratura)",
+      "organization": "Jizzax davlat pedagogika universiteti"
+    },
+    {
+      "period": "2019–2021 yy.",
+      "position": "Talaba (bakalavriat)",
+      "organization": "Jizzax davlat pedagogika universiteti"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Rus tili bo'yicha davlat test sinovidan o'tganlik sertifikati (TRKI-III / C1)",
+      "issuer": "Rossiya Federatsiyasi Hukumati, Sankt-Peterburg davlat universiteti (SPbGU)",
+      "doc_number": "Ma'lumotnoma № 939682",
+      "level": "TRKI-III / C1",
+      "details": "Rus tilini chet tili sifatida bilish bo'yicha uchinchi daraja (C1) davlat testidan muvaffaqiyatli o'tgan"
+    },
+    {
+      "title": "Umumta'lim fani bo'yicha bilim darajasi to'g'risida sertifikat",
+      "issuer": "O'zbekiston Respublikasi Oliy ta'lim, fan va innovatsiyalar vazirligi huzuridagi Bilim va malakalarni baholash agentligi",
+      "doc_number": "UZ26 1123482",
+      "subject": "Rus tili va adabiyoti",
+      "level": "B daraja",
+      "issued_date": "15.06.2026 y.",
+      "valid_until": "14.06.2029 y. gacha"
+    },
+    {
+      "title": "Chet tilini bilish darajasi to'g'risida davlat sertifikati (Ingliz tili)",
+      "issuer": "O'zbekiston Respublikasi davlat sertifikatsiyasi",
+      "doc_number": "№ 24BBA1188540NF",
+      "level": "B1",
+      "issued_date": "15.05.2024 y.",
+      "valid_until": "14.05.2026 y. gacha"
+    }
+  ],
+  "about_project": "«SIBBOARD EDU» elektron ilmiy-metodik mobil qo'llanmasi bo'lajak maktabgacha ta'lim pedagoglarini tayyorlash, ularga Sibboard (balans-taxta) zamonaviy neyro-pedagogik texnologiyasi orqali bolalarning jismoniy, kognitiv va nutqiy rivojlanishini ta'minlovchi mashg'ulotlarni loyihalashni o'rgatish maqsadida yaratilgan."
+}

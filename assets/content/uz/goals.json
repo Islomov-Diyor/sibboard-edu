@@ -1,0 +1,95 @@
+{
+  "id": "goals",
+  "title": "Sibbord texnologiyasining maqsad va vazifalari",
+  "cover_image": "assets/images/05_group_lesson_hall.webp",
+  "main_goal": {
+    "title": "Sibbord texnologiyasining maqsadi",
+    "description": "Sibbord texnologiyasining asosiy maqsadi bolaning bilish, harakat, sensor, nutq, ijodiy va ijtimoiy faolligini yaxlit rivojlantirish, uning mustaqil faoliyatini qo'llab-quvvatlash, shuningdek ta'lim jarayonini amaliy va interaktiv faoliyat asosida tashkil etishdan iborat.\n\nMaktabgacha ta'limda Sibborddan foydalanish bolaga turli buyumlar va mexanizmlar bilan bevosita muloqot qilish, ularning xususiyatlarini o'rganish, oddiy amaliy masalalarni yechish, sabab-oqibat bog'lanishlarini o'rnatish va o'z faoliyati natijalarini kuzatish imkonini beradi."
+  },
+  "app_goal": {
+    "title": "SIBBOARD EDU ilovasining maqsadi",
+    "description": "SIBBOARD EDU mobil ilovasi doirasida ushbu maqsad kengaytiriladi va bo'lajak pedagoglarni Sibbord texnologiyasidan maqsadli va metodik asoslangan holda foydalanishga tayyorlashga, shuningdek ularning kasbiy kompetensiyalarini rivojlantirishga yo'naltiriladi."
+  },
+  "children_tasks": [
+    {
+      "no": 1,
+      "title": "Bilish (kognitiv) faoliyatini rivojlantirish",
+      "icon": "lightbulb",
+      "items": [
+        "bolada kuzatish va taqqoslash ko'nikmalarini rivojlantirish;",
+        "buyumlarning xususiyatlari va belgilarini tushunishga ko'maklashish;",
+        "sabab-oqibat bog'lanishlari haqida tasavvurlarni shakllantirish;",
+        "bolani muammoli vaziyatlarda yechim izlashga yo'naltirish;",
+        "mustaqil fikrlashni qo'llab-quvvatlash."
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Mayda motorikani rivojlantirish",
+      "icon": "touch_app",
+      "items": [
+        "barmoqlar va qo'l kaftlari harakatlarini faollashtirish;",
+        "aniq va muvofiqlashtirilgan harakatlarni shakllantirish;",
+        "ko'rish-harakat koordinatsiyasini rivojlantirish;",
+        "kundalik faoliyatda amaliy harakatlarni bajarish ko'nikmalarini mustahkamlash."
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Nutq faoliyatini qo'llab-quvvatlash",
+      "icon": "chat_bubble",
+      "items": [
+        "yangi so'zlarni o'zlashtirish uchun sharoit yaratish;",
+        "buyumlar va harakatlarni nomlashga undash;",
+        "savollarga javob berish va o'z fikrlarini ifodalash qobiliyatini rag'batlantirish;",
+        "dialogik va monologik nutqni rivojlantirish."
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Ijodiy fikrlashni rivojlantirish",
+      "icon": "brush",
+      "items": [
+        "nostandart yechimlarni izlashni rag'batlantirish;",
+        "turli pedagogik va o'yin vaziyatlarini yaratish;",
+        "g'oyalarni mustaqil ishlab chiqish uchun imkoniyat yaratish;",
+        "tasavvur va ijodiy faollikni qo'llab-quvvatlash."
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Ijtimoiy-kommunikativ ko'nikmalarni rivojlantirish",
+      "icon": "people",
+      "items": [
+        "juftlikda va kichik guruhlarda ishlashni tashkil etish;",
+        "o'z fikrini ifoda etish qobiliyatini rivojlantirish;",
+        "boshqalarning fikrini tinglash ko'nikmasini shakllantirish;",
+        "birgalikdagi faoliyatni tashkil qilish;",
+        "navbatga va umumiy qoidalarga rioya qilish ko'nikmalarini shakllantirish."
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Mustaqillikni shakllantirish",
+      "icon": "star",
+      "items": [
+        "topshiriqlarni mustaqil bajarish imkoniyatini taqdim etish;",
+        "tanlash ko'nikmalarini rivojlantirish;",
+        "xatolarni mustaqil aniqlash va tuzatishga yo'naltirish;",
+        "shaxsiy faoliyat natijalarini baholash qobiliyatini shakllantirish."
+      ]
+    }
+  ],
+  "pedagogue_tasks": [
+    "Bo'lajak pedagoglarga Sibbord texnologiyasining nazariy asoslarini o'rgatish.",
+    "Sibbord texnologiyasining pedagogik imkoniyatlarini ochib berish.",
+    "Maktabgacha ta'lim tashkilotlaridagi mashg'ulotlar uchun Sibbord asosida topshiriqlar ishlab chiqish ko'nikmalarini shakllantirish.",
+    "Bolalarning turli yosh guruhlariga mos keladigan pedagogik vaziyatlarni yaratish ko'nikmalarini shakllantirish.",
+    "Talabalarda ijodiy va loyihalash kompetensiyasini rivojlantirish.",
+    "Pedagogik muammolarni mustaqil hal qilish ko'nikmalarini rivojlantirish.",
+    "Interaktiv va amaliy ta'lim faoliyatini tashkil etish ko'nikmalarini shakllantirish.",
+    "O'z pedagogik faoliyatini tahlil qilish va kasbiy refleksiyani amalga oshirishga o'rgatish.",
+    "Sibbord texnologiyasini qo'llash natijalarini baholash ko'nikmalarini shakllantirish.",
+    "Sibbord texnologiyasi bilan maxsus tashkil etilgan ish orqali bo'lajak pedagoglarning kasbiy kompetensiyalarini bosqichma-bosqich rivojlantirish."
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "capabilities",
+  "title": "Sibbord texnologiyasining pedagogik imkoniyatlari",
+  "overview": "Sibbord texnologiyasi keng pedagogik imkoniyatlarga ega bo'lib, faol, amaliyotga yo'naltirilgan, interaktiv va rivojlantiruvchi ta'lim faoliyatini tashkil etish vositasi sifatida qo'llanilishi mumkin. Uning pedagogik salohiyati bolaning predmetli-amaliy harakatlarini bilish, sensor, harakat, nutq va ijodiy topshiriqlar bilan birlashtirish imkoniyati bilan bog'liq.\n\nMaktabgacha ta'limda Sibbord nafaqat mustaqil o'yin vositasi, balki tarbiyachi maxsus ta'lim vaziyatlarini yaratadigan, savollar beradigan, muammoli vazifalarni taklif qiladigan, bolalarning o'zaro hamkorligini tashkil etadigan va faoliyat natijalarini baholaydigan pedagogik hamrohlik vositasi sifatida ham xizmat qilishi mumkin.\n\nSIBBOARD EDU doirasida Sibbordning pedagogik imkoniyatlari bo'lajak pedagoglarni rivojlantiruvchi faoliyatni loyihalash va o'tkazishga tayyorlash nuqtai nazaridan ham ko'rib chiqiladi.",
+  "key_idea": "Sibbord nafaqat o'zining rivojlantiruvchi elementlari tufayli, balki birinchi navbatda pedagog maqsadni qanday qo'yishi, topshiriqni qanday loyihalashi, bolaning material bilan o'zaro ta'sirini qanday tashkil etishi va olingan natijani qanday tahlil qilishi tufayli pedagogik ahamiyatga ega vositaga aylanadi.\n\nAynan shu tamoyil SIBBOARD EDU asosini tashkil etadi: ilova bo'lajak pedagogga shunchaki «Sibbord bilan ishlash»ni emas, balki Sibbord texnologiyasidan foydalangan holda pedagogik jihatdan asoslangan faoliyatni loyihalashni o'rgatadi.",
+  "cards": [
+    {
+      "no": 1,
+      "title": "Bilish (kognitiv) faolligi",
+      "develops": "tafakkur, diqqat, tahlil",
+      "image": "assets/images/12_boy_sticks.webp",
+      "back": "Amaliy harakatlar jarayonida kuzatish, taqqoslash, buyumlarni belgilariga ko'ra guruhlash va sabab-oqibat bog'lanishlarini o'rnatish qobiliyatini shakllantiradi."
+    },
+    {
+      "no": 2,
+      "title": "Sensomotor faollik",
+      "develops": "motorika, koordinatsiya",
+      "image": "assets/images/11_child_on_board.webp",
+      "back": "Ko'rish analizatori va qo'l barmoqlarining uyg'un ishlashini, mayda detallar bilan harakatlanishda va muvozanat saqlashda harakatlar aniqligini mashq qildiradi."
+    },
+    {
+      "no": 3,
+      "title": "Sensor rivojlanish",
+      "develops": "rang, shakl, o'lcham, tekstura",
+      "image": "assets/images/04_cork_board.webp",
+      "back": "Turli sirtlarni taktil tekshirish, geometrik shakllar, rang tuslari va proporsiyalarni farqlash orqali sensor tajribani boyitadi."
+    },
+    {
+      "no": 4,
+      "title": "Nutqiy rivojlanish",
+      "develops": "lug'at boyligi, muloqot, bog'lanishli nutq",
+      "image": "assets/images/10_pair_exercise.webp",
+      "back": "Harakatlarning nutqiy hamrohligini, bajarilayotgan amallarni sharhlashni, fe'l va sifat lug'atini boyitishni rag'batlantiradi."
+    },
+    {
+      "no": 5,
+      "title": "Ijodiy faoliyat",
+      "develops": "tasavvur, tashabbuskorlik",
+      "image": "assets/images/06_kids_home_play.webp",
+      "back": "Shaxsiy o'yin syujetlarini yaratishga, hikoyalar to'qishga va rivojlantiruvchi elementlarni nostandart usulda birlashtirishga undaydi."
+    },
+    {
+      "no": 6,
+      "title": "Muammoli ta'lim",
+      "develops": "yechim izlash va masalalarni hal qilish",
+      "image": "assets/images/13_problem_solving.webp",
+      "back": "Muammoli vaziyatlarni (tiqilib qolgan detal, mos kelmagan shakl) modellashtiradi: gipoteza → sinab ko'rish → tekshirish → xulosa bosqichlari bo'yicha yo'naltiradi."
+    },
+    {
+      "no": 7,
+      "title": "Hamkorlikdagi faoliyat",
+      "develops": "kommunikatsiya, hamkorlik",
+      "image": "assets/images/16_group_hall.webp",
+      "back": "Juftlik va kichik guruhlarda rollarni taqsimlashni, kelishishni, navbatga rioya qilishni va umumiy ijobiy natijaga erishishni o'rgatadi."
+    },
+    {
+      "no": 8,
+      "title": "Mustaqil faoliyat",
+      "develops": "tashabbus, tanlov, mas'uliyat",
+      "image": "assets/images/08_tree_pose.webp",
+      "back": "Bolaga harakatlar ketma-ketligini mustaqil tanlash, kattalarning aralashuvisiz o'z-o'zini nazorat qilish va xatolarni tuzatish imkoniyatini beradi."
+    },
+    {
+      "no": 9,
+      "title": "Individuallashtirish",
+      "develops": "bolaning imkoniyatlarini hisobga olish",
+      "image": "assets/images/14_individual_lying.webp",
+      "back": "Bitta elementning murakkabligi, sur'ati va didaktik maqsadlarini har bir tarbiyalanuvchining individual xususiyatlariga moslashtirish imkonini beradi."
+    },
+    {
+      "no": 10,
+      "title": "Kasbiy tayyorgarlik",
+      "develops": "loyihalash va refleksiya",
+      "image": "assets/images/05_group_lesson_hall.webp",
+      "back": "Pedagogika oliygohlari talabalarida rivojlantiruvchi mashg'ulotlarni modellashtirish va ongli pedagogik refleksiyani amalga oshirish ko'nikmalarini shakllantiradi."
+    }
+  ]
+}

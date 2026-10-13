@@ -1,0 +1,113 @@
+{
+  "id": "home",
+  "title": "Sibbord o'zi nima?",
+  "subtitle": "Maktabgacha ta'lim uchun interaktiv rivojlantiruvchi vosita",
+  "hero_image": "assets/images/06_kids_home_play.webp",
+  "definition": "Sibbord (Sibboard) — bu bolaning faol bilish, harakat, sensor, nutq va ijodiy faoliyatini tashkil etish uchun mo'ljallangan interaktiv rivojlantiruvchi vositadir. Uning asosini maxsus tashkil etilgan o'yin yoki rivojlantiruvchi sirt tashkil etadi, unda turli funksional, maishiy, sensor va didaktik elementlar joylashtiriladi. Ular bilan o'zaro ta'sir jarayonida bola nafaqat muayyan harakatlarni bajaradi, balki buyumlarning xususiyatlarini mustaqil ravishda o'rganish, oddiy sabab-oqibat bog'lanishlarini o'rnatish, amaliy vazifalarni hal qilish va mustaqil faoliyat tajribasini orttirish imkoniyatiga ega bo'ladi.",
+  "materials_info": "Sibbord yog'ochdan yoki boshqa xavfsiz materiallardan tayyorlanishi mumkin. Uning yuzasida tugmalar, qisqichlar, molniyalar, ilgaklar, bog'ichlar (shnurovka), xavfsiz qulflar, g'ildirakchalar, ulagichlar, magnitlar, geometrik shakllar, rangli elementlar, raqamlar, harflar, taktil yuzalar va boshqa didaktik komponentlar joylashtirilishi mumkin.\n\nSibbordning aniq tarkibi bolalarning yoshi, ta'lim faoliyati maqsadlari, mashg'ulot mazmuni va tarbiyalanuvchilarning individual imkoniyatlari bilan belgilanadi.",
+  "gallery_images": [
+    "assets/images/02_board_side_view_1.webp",
+    "assets/images/03_board_side_view_2.webp",
+    "assets/images/04_cork_board.webp",
+    "assets/images/01_board_logo_front.webp"
+  ],
+  "chain_steps": [
+    {
+      "step": 1,
+      "title": "Ko'rish",
+      "desc": "Obyektni vizual idrok etish"
+    },
+    {
+      "step": 2,
+      "title": "Ushlab ko'rish",
+      "desc": "Material bilan taktil tanishuv"
+    },
+    {
+      "step": 3,
+      "title": "Harakat qilish",
+      "desc": "Element bilan amaliy o'zaro munosabat"
+    },
+    {
+      "step": 4,
+      "title": "Tadqiq etish",
+      "desc": "Predmet xususiyatlari va reaksiyalarini o'rganish"
+    },
+    {
+      "step": 5,
+      "title": "O'ylash",
+      "desc": "Sabab-oqibat bog'lanishini anglash"
+    },
+    {
+      "step": 6,
+      "title": "Natija olish",
+      "desc": "Amaliy harakat maqsadiga erishish"
+    },
+    {
+      "step": 7,
+      "title": "Natijani tushunish",
+      "desc": "Refleksiya va og'zaki izohlash"
+    }
+  ],
+  "accordions": [
+    {
+      "id": "pedagogical_essence",
+      "title": "Sibbord texnologiyasining pedagogik mohiyati",
+      "image": "assets/images/12_boy_sticks.webp",
+      "content": "Pedagogik nuqtai nazardan Sibbordni faqat o'yin konstruksiyasi yoki buyumlar to'plami sifatida emas, balki maqsadli rivojlantiruvchi faoliyatni tashkil etish vositasi sifatida ko'rib chiqish lozim.\n\nO'quv materialini an'anaviy taqdim etishda bola ma'lumotni asosan kuzatish va tinglash orqali idrok etishi mumkin. Sibbord bilan ishlashda bu jarayonlarga buyumlar bilan bevosita harakat qo'shiladi. Bola ma'lum bir elementni bosishi, burashi, ochishi, yopishi, ulashi, yechishi, qadashi, tortishi, moslashtirishi, joylashtirishi yoki siljitishi mumkin.\n\nMasalan, «Och va yop» topshirig'ini bajarishda bola qulf yoki mahkamlagich bilan ishlaydi. Bunda tarbiyachi quyidagi savollarni berishi mumkin:\n• Hozir nima qilyapsan?\n• Bu element nima uchun kerak?\n• Kalit buralsa nima bo'ladi?\n• Qulf boshqa tomonga ochiladimi?\n• Topshiriq to'g'ri bajarilganini qayerdan bilding?\n\nShunday qilib, bitta oddiy amaliy harakat pedagog tomonidan harakat, bilish va nutq faolligini o'z ichiga olgan kompleks rivojlantiruvchi topshiriqqa aylantirilishi mumkin.\n\nShu sababli Sibbordning pedagogik qiymati nafaqat rivojlantiruvchi elementlarning mavjudligi bilan, balki ulardan metodik jihatdan to'g'ri foydalanish usuli bilan belgilanadi."
+    },
+    {
+      "id": "cognitive_dev",
+      "title": "Kognitiv (bilish) rivojlanish",
+      "image": "assets/images/11_child_on_board.webp",
+      "content": "Sibbord bilan ishlash diqqat, kuzatuvchanlik, xotira, taqqoslash, tasniflash, tahlil qilish, oddiy sabab-oqibat bog'lanishlarini o'rnatish, amaliy masalalarni yechish va boshlang'ich mantiqiy fikrlashni rivojlantirish uchun shart-sharoit yaratishi mumkin.\n\nMasalan, pedagog bolaga ma'lum bir rang, shakl yoki o'lchamdagi elementni topishni, uning joylashuvini aniqlashni yoki mos detalni tanlashni taklif qilishi mumkin.\n\nShuni ta'kidlash kerakki, Sibbordning o'zi avtomatik ravishda ma'lum bir kognitiv qobiliyat rivojlanishini kafolatlamaydi. Natija topshiriq mazmuni, uning murakkabligi, bolaning yoshi va pedagogik hamrohlik xarakteriga bog'liq."
+    },
+    {
+      "id": "fine_motor_dev",
+      "title": "Mayda motorikani rivojlantirish",
+      "image": "assets/images/13_problem_solving.webp",
+      "content": "Sibbord elementlari bilan ko'plab harakatlar barmoqlar va kaftning aniq harakatlarini talab qiladi.\n\nMasalan:\ntugmani qadash → molniyani ochish → bog'ichni bog'lash → qulfni ochish → elementni burash → detallarni birlashtirish.\n\nBunday harakatlar barmoqlar va kaft harakatlari koordinatsiyasini mashq qildirish uchun sharoit yaratadi.\n\nTopshiriqlarni bosqichma-bosqich murakkablashtirish alohida ahamiyatga ega: yirik elementlar bilan oddiy manipulyatsiyalardan aniqroq harakatlarga o'tish."
+    },
+    {
+      "id": "visual_motor_coordination",
+      "title": "Ko'rish-harakat koordinatsiyasini rivojlantirish",
+      "image": "assets/images/04_cork_board.webp",
+      "content": "Sibbord bilan ishlashda bola bir vaqtning o'zida quyidagilarni bajarishi kerak:\n• kerakli obyektni ko'rish;\n• uning holatini aniqlash;\n• unga qarab qo'lini yo'naltirish;\n• talab qilingan harakatni bajarish;\n• olingan natijani baholash.\n\nShunday qilib, pedagog ko'rish idroki va harakat amalini muvofiqlashtirishga qaratilgan topshiriqlarni kiritishi mumkin."
+    },
+    {
+      "id": "sensory_dev",
+      "title": "Sensor rivojlanish",
+      "image": "assets/images/10_pair_exercise.webp",
+      "content": "Sibbord bolaning bevosita sensor tajriba olishiga imkon beradigan vaziyatlarni yaratadi. Bola turli ranglarni ko'rishi, shakllarni ajratishi, turli teksturalarni his qilishi, o'lchamlarni solishtirishi, buyumlarning joylashuvini aniqlashi va turli sirtlar bilan o'zaro munosabatda bo'lishi mumkin.\n\nShu asosda pedagog quyidagi turdagi topshiriqlarni shakllantirishi mumkin: «Xuddi shundayini top», «Nima bilan farq qiladi?», «Rangiga qarab tanla», «Katta shaklni top», «Paypaslab aniqla»."
+    },
+    {
+      "id": "speech_dev",
+      "title": "Sibbord va nutqiy rivojlanish",
+      "image": "assets/images/06_kids_home_play.webp",
+      "content": "Sibbord nutq faoliyatini tashkil etish vositasi sifatida ishlatilishi mumkin. Amaliy topshiriqni bajarish paytida pedagog bolani quyidagilarga undashi mumkin: buyumlarni nomlash, ularning xususiyatlarini tasvirlash, harakatlarni ifodalash, savollarga javob berish, oddiy jumlalar tuzish, harakatlar ketma-ketligini tushuntirish, olingan natija haqida so'zlab berish.\n\nMasalan, pedagog molniyani ko'rsatib so'raydi: «Bu nima?» — «U nima uchun kerak?» — «Hozir nima qilyapsan?» — «Uni yopganingdan keyin nima bo'ldi?»\n\nAmaliy harakat vaziyatli nutqiy muloqot uchun asos bo'ladi."
+    },
+    {
+      "id": "creative_dev",
+      "title": "Sibbord va ijodiy rivojlanish",
+      "image": "assets/images/16_group_hall.webp",
+      "content": "Sibbord nafaqat oldindan belgilangan harakatlarni bajarish, balki bola tomonidan shaxsiy o'yin vaziyatlarini yaratish uchun ham qo'llanilishi mumkin. Pedagog taklif qilishi mumkin: «Ushbu elementlar bilan o'yin o'ylab top» yoki «Sibborddagi tasvirlardan foydalanib hikoya tuz».\n\nNatijada bola elementlarni mustaqil tanlash, ularni birlashtirish va faoliyatning o'ziga xos variantlarini yaratish imkoniyatiga ega bo'ladi. Bu tasavvur, tashabbuskorlik, mustaqillik, fikrlashning moslashuvchanligi va ijodiy izlanishni namoyon etish uchun sharoit yaratadi."
+    },
+    {
+      "id": "independent_activity",
+      "title": "Sibbord va mustaqil faoliyat",
+      "image": "assets/images/08_tree_pose.webp",
+      "content": "Sibbordning pedagogik jihatdan muhim jihatlaridan biri bolaning mustaqil faoliyatini tashkil etish imkoniyatidir. Bola mustaqil ravishda elementni tanlashi, harakatlar ketma-ketligini belgilashi, topshiriqni bajarishning turli usullarini sinab ko'rishi va natijani tekshirishi mumkin.\n\nQiyinchilik yuzaga kelganda pedagog darhol tayyor javobni aytishi shart emas. U yo'naltiruvchi savollardan foydalanishi mumkin: «Yana bir bor urinib ko'r», «Seningcha, nega o'xshamadi?», «Bu yerga qaysi element mos keladi?», «Nimani o'zgartirish mumkin?»\n\nBunday yondashuv faqat tayyor namunani takrorlash emas, balki yechim izlash tajribasini shakllantirishga yordam beradi."
+    },
+    {
+      "id": "multisensory_approach",
+      "title": "Sibbord va multisensor yondashuv",
+      "image": "assets/images/14_individual_lying.webp",
+      "content": "Bir nechta idrok kanallarini birlashtirish imkoniyati alohida ahamiyatga ega. Ish jarayonida bola: ko'radi → ushlaydi → harakatlantiradi → eshitadi → natijani kuzatadi → uni muhokama qiladi.\n\nMasalan, bola qizil geometrik shaklni ko'radi, uni qo'li bilan oladi, shaklini aniqlaydi, tegishli joyga o'tkazadi va uni nomlaydi. Shunday qilib, bitta topshiriqda ko'rish idroki, taktil tajriba, harakat faolligi va nutqiy hamrohlik uyg'unlashishi mumkin."
+    },
+    {
+      "id": "kinesiological_approach",
+      "title": "Sibbord va kineziologik yondashuv",
+      "image": "assets/images/15_pair_lying.webp",
+      "content": "Sibbord bilan ishlash barmoqlar va kaftlarning turli harakatlarini, ko'rish-harakat koordinatsiyasini va harakat amallarini boshqarishni o'z ichiga oladi. Shuning uchun undan foydalanish harakat va bilish faolligi o'rtasidagi bog'liqlikni ko'rib chiqadigan yondashuvlar bilan metodik jihatdan bog'liq bo'lishi mumkin.\n\nShu bilan birga, ilmiy jihatdan to'g'ri bo'lishi uchun, Sibborddan har qanday foydalanish avtomatik ravishda oliy ruhiy funksiyalar yoki intellekt rivojlanishini ta'minlaydi deb da'vo qilmaslik lozim. Pedagogik samara topshiriq mazmuni, uning maqsadi, yoshga mosligi, qo'llashning tizimliligi va pedagogning kasbiy harakatlari bilan belgilanadi.\n\nShuning uchun ta'lim jarayonida Sibbordni suhbat, savollar, o'yin usullari, muammoli topshiriqlar, harakat mashqlari, ijodiy topshiriqlar, refleksiya va boshqa ta'lim vositalari bilan uyg'unlashtirish muhimdir."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "rules",
+  "title": "Sibborddan foydalanish qoidalari",
+  "cover_image": "assets/images/09_lunge_pose.webp",
+  "overview": "Sibbord bilan ishlashni to'g'ri tashkil etish uning maktabgacha ta'limda xavfsiz va pedagogik jihatdan samarali qo'llanilishining muhim shartidir. Sibborddan foydalanish bolaning yoshi, rivojlanish darajasi, individual imkoniyatlari va qo'yilgan ta'lim vazifalarini hisobga olgan holda amalga oshirilishi kerak.",
+  "core_principle": "«Bolaning o'rniga bajarmaslik, balki unga mustaqil bajarishga yordam berish»",
+  "four_questions": [
+    {
+      "question": "Nimani rivojlantiramiz?",
+      "desc": "Aniq qobiliyatni belgilaymiz: mayda motorika, harakatlar ketma-ketligi, nutq yoki mantiq."
+    },
+    {
+      "question": "Bola nima qilishi kerak?",
+      "desc": "Tushunarli amaliy harakatni shakllantiramiz: o'tkazish, ochish, taqqoslash, tanlash."
+    },
+    {
+      "question": "Qaysi elementdan foydalanamiz?",
+      "desc": "Mos funksional qismni tanlaymiz: shnurovka, qulf, g'ildirakcha yoki shakl."
+    },
+    {
+      "question": "Natijani qanday aniqlaymiz?",
+      "desc": "Muvaffaqiyat mezoni: bola mustaqil ravishda zanjirni bajaradi va uni so'z bilan izohlay oladi."
+    }
+  ],
+  "example_box": {
+    "title": "Metodik rejalashtirish namunasi",
+    "goal": "Mayda motorika va harakatlar ketma-ketligini rivojlantirish",
+    "element": "Shnurovka (bog'ich)",
+    "task": "«Bog'ichni teshiklar orqali tartib bilan o'tkaz»",
+    "speech": "«Nimadan boshlading? Keyin nima qilasan?»",
+    "result": "Bola harakatlar ketma-ketligini mustaqil bajaradi va uni tushuntirib bera oladi."
+  },
+  "sections": [
+    {
+      "id": "general_rules",
+      "title": "Asosiy ish qoidalari",
+      "items": [
+        "Sibborddan faqat pedagog nazorati ostida foydalanish: boshlang'ich bosqichda pedagog elementlarning vazifasini tushuntiradi, kichik yoshdagi bolalar qarovsiz qolmasligi kerak.",
+        "Bolaning yoshini hisobga olish: kichiklar uchun oddiy va yirik elementlar, katta maktabgacha yoshdagilar uchun murakkablashtirilgan topshiriqlar.",
+        "Oddiy harakatlardan boshlash: bosish, burash, ochish, ulash; so'ngra ketma-ketlik va muammolarni yechishga o'tish.",
+        "Topshiriqni bolaning o'rniga bajarmaslik: mustaqil harakat uchun sharoit yaratish, tayyor yechim o'rniga maslahat va savollardan foydalanish.",
+        "Aniq pedagogik maqsadni belgilash: har bir topshiriq ma'lum bir ko'nikmani rivojlantirishga qaratiladi.",
+        "Harakatni nutqiy hamrohlik bilan uyg'unlashtirish: savollar berish («Nima qilyapsan?», «Qaysi detal mos keladi?»), harakatni nutq bilan bog'lash.",
+        "Murakkablikni bosqichma-bosqich oshirish: «tanishuv → taqlid → mustaqil harakat → muammoli vaziyat → ijod» zanjiriga rioya qilish.",
+        "Bolaga tanlash imkoniyatini berish: elementni, harakat usulini yoki ketma-ketlikni mustaqil tanlashni taklif qilish."
+      ]
+    },
+    {
+      "id": "safety_rules",
+      "title": "Xavfsizlik qoidalari",
+      "items": [
+        "Sibbordning barcha elementlari mustahkam mahkamlangan bo'lishi kerak.",
+        "Yuzasi silliq, o'tkir burchaklar va turtib chiqqan qismlarsiz bo'lishi shart.",
+        "Materiallar xavfsiz va bolalarning yoshiga mos bo'lishi lozim.",
+        "Mayda detallarni tasodifan yutib yuborishi mumkin bo'lgan bolalar bilan ishlatish taqiqlanadi.",
+        "Mahkamlagichlar, qulflar, tugmalar, bog'ichlar va boshqa harakatlanuvchi qismlarni muntazam tekshirib turish kerak.",
+        "Shikastlangan yoki nosoz qismlar o'z vaqtida almashtirilishi lozim.",
+        "Mashg'ulot davomida pedagog elementlardan to'g'ri foydalanilayotganini nazorat qiladi.",
+        "Ishdan so'ng bolalar ish joyini tartibga keltirishlari kerak.",
+        "Sibbord quruq, toza va xavfsiz joyda saqlanishi kerak."
+      ]
+    },
+    {
+      "id": "support_rules",
+      "title": "Pedagogik hamrohlik qoidalari",
+      "items": [
+        "«Bolaning o'rniga bajarmaslik, balki unga mustaqil bajarishga yordam berish» tamoyiliga rioya qilish.",
+        "Optimal zanjir: maqsad qo'yish → topshiriqni tushuntirish → namoyish qilish (zarur bo'lsa) → mustaqil harakat → kuzatish → yo'naltiruvchi maslahat → natija olish → muhokama → refleksiya.",
+        "Har bir bolaning individual sur'atini hisobga olish, boshqa bolalar natijalari bilan ochiq taqqoslamaslik."
+      ]
+    },
+    {
+      "id": "group_rules",
+      "title": "Guruh ishini tashkil etish qoidalari",
+      "items": [
+        "Juftlik va kichik guruhlarda ishlaganda bolalar o'rtasida rollarni taqsimlash.",
+        "Bolalarni kelishishga va harakatlar navbatiga rioya qilishga o'rgatish.",
+        "Har bir bolaga amaliy harakatni bajarish imkoniyatini berish.",
+        "Do'stona hamkorlik va tengdoshining harakatlariga hurmat ko'nikmalarini shakllantirish.",
+        "Ish yakunlangach, jamoaviy umumiy natijani albatta muhokama qilish."
+      ]
+    },
+    {
+      "id": "effective_rules",
+      "title": "Samarali foydalanish qoidalari",
+      "items": [
+        "Sibborddan shunchaki ko'ngilochar o'yinchoq sifatida foydalanmaslik kerak — uning qiymati metodik yo'naltirilganligidadir.",
+        "Faoliyatni 4 asosiy savol bo'yicha loyihalash: Nimani rivojlantiramiz? Bola nima qiladi? Qaysi element? Natijani qanday baholaymiz?",
+        "Bog'chaning ta'lim dasturida tizimli va ongli ravishda qo'llash."
+      ]
+    },
+    {
+      "id": "teacher_role",
+      "title": "Pedagogning roli",
+      "items": [
+        "Pedagog tashkilotchi, maslahatchi, e'tiborli kuzatuvchi va bolaning rivojlantiruvchi hamkori sifatida namoyon bo'ladi.",
+        "Quruq buyruqlar o'rniga muammoli va o'yin vaziyatlarini yaratish.",
+        "Yechimlarni mustaqil izlashni rag'batlantirish va natijalarni refleksiv anglashga yordam berish.",
+        "Har bir amaliy harakatni umumiy ta'limiy maqsad bilan uzviy bog'lash."
+      ]
+    }
+  ],
+  "checklist": [
+    "Barcha funksional detallarning mustahkam va ishonchli mahkamlanganligi",
+    "Yuzada yoriqlar, qipiqlar, o'tkir qirralar va burchaklar yo'qligi",
+    "Bo'yoq va lak qoplamalarining ekologik tozaligi va xavfsizligi",
+    "Detallar o'lchamining bolalar yosh guruhiga mosligi",
+    "Qulflar, molniyalar, karabinlar va harakatlanuvchi g'ildiraklarning sozligi",
+    "Bog'ichlar, tasmalar va to'qimachilik elementlarining butunligi",
+    "Pedagog tomonidan doimiy ko'rish nazoratining ta'minlanganligi",
+    "Ish joyining to'g'ri tashkil etilganligi va tartib qoidalariga rioya qilinishi",
+    "Uskunaning quruq va xavfsiz joyda saqlanish sharoitlari"
+  ]
+}

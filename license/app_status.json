@@ -1,0 +1,10 @@
+{
+  "is_active": true,
+  "app_version": "1.0.0",
+  "lock_title_uz": "Dasturiy ta'minot litsenziyasi to'xtatilgan",
+  "lock_title_ru": "Лицензия приложения приостановлена",
+  "lock_message_uz": "Ushbu ilovaning rasmiy litsenziya muddati to'xtatilgan. To'liq faollashtirish va qayta yoqish uchun dasturchi bilan bog'laning.",
+  "lock_message_ru": "Действие лицензии для данного приложения приостановлено. Для возобновления доступа свяжитесь с разработчиком.",
+  "contact_phone": "+998 97 385 05 50",
+  "contact_telegram": "https://t.me/Islomov_Diyor"
+}
